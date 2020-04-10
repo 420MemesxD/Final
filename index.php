@@ -4,7 +4,7 @@
 $title = 'Destinations';
 require_once ('header.php');
 
-echo 'ADD YOUR GITHUB LINK!!';
+echo 'https://github.com/420MemesxD/Final';
 
 //adds footer
 require_once ('footer.php');
